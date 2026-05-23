@@ -1,0 +1,407 @@
+[
+  {
+    "customer_id": "CUS-387283",
+    "name": "Sofia Russell",
+    "date_of_birth": "1968-10-27",
+    "email": "sofia.russell@birchletters.com",
+    "phone": "(713) 958-2433",
+    "address": "104 Canyon Creek Blvd, Denver, CO 80205",
+    "account_balance": 10480.05
+  },
+  {
+    "customer_id": "CUS-132117",
+    "name": "Liam Ibarra",
+    "date_of_birth": "1972-01-20",
+    "email": "libarra81@tidalletters.com",
+    "phone": "713-958-3150",
+    "address": "6206 Maple Blvd, Austin, TX 78707",
+    "account_balance": 10605.04
+  },
+  {
+    "customer_id": "CUS-409108",
+    "name": "Noah Washington",
+    "date_of_birth": "1988-07-30",
+    "email": "nwashington99@birchdispatch.net",
+    "phone": "786-958-3151",
+    "address": "6586 Cedar Blvd, Plano, TX 75041",
+    "account_balance": 15408.12
+  },
+  {
+    "customer_id": "CUS-766081",
+    "name": "Jasmine Tran",
+    "date_of_birth": "1976-02-13",
+    "email": "jasminetran46@cobaltletters.com",
+    "phone": "786-959-1851",
+    "address": "6786 Magnolia Ave, Nashville, TN 37261",
+    "account_balance": 4387.55
+  },
+  {
+    "customer_id": "CUS-402690",
+    "name": "Dominic Vasquez",
+    "date_of_birth": "1976-09-06",
+    "email": "dominicvasquez88@birchletters.com",
+    "phone": "469-958-5114",
+    "address": "3284 Bluebonnet Ave, Nashville, TN 37243",
+    "account_balance": 15366.1
+  },
+  {
+    "customer_id": "CUS-865704",
+    "name": "Andre Bennett",
+    "date_of_birth": "1977-12-11",
+    "email": "abennett92@willowdispatch.net",
+    "phone": "817-958-2732",
+    "address": "6354 Oak Trl, Atlanta, GA 30356",
+    "account_balance": 801.7
+  },
+  {
+    "customer_id": "CUS-653186",
+    "name": "Brianna Jenkins",
+    "date_of_birth": "1990-07-08",
+    "email": "brianna_jenkins5@tidalletters.com",
+    "phone": "(720) 958-5273",
+    "address": "4280 Magnolia Trl, Atlanta, GA 30368",
+    "account_balance": 933.73
+  },
+  {
+    "customer_id": "CUS-545149",
+    "name": "Gabriel Morales",
+    "date_of_birth": "1954-10-13",
+    "email": "gabrielmorales69@slatedispatch.net",
+    "phone": "737-959-5996",
+    "address": "2908 Magnolia Ln, Raleigh, NC 27604",
+    "account_balance": 12536.72
+  },
+  {
+    "customer_id": "CUS-905751",
+    "name": "Jada Wright",
+    "date_of_birth": "1972-06-14",
+    "email": "jadawright19@birchinbox.net",
+    "phone": "773-959-6938",
+    "address": "3381 Quail Run Ave, Atlanta, GA 30313",
+    "account_balance": 443.12
+  },
+  {
+    "customer_id": "CUS-537961",
+    "name": "Ruby Garcia",
+    "date_of_birth": "1968-08-01",
+    "email": "rubygarcia37@slatedispatch.net",
+    "phone": "832-958-7283",
+    "address": "9019 Pecan Ave, Raleigh, NC 27654",
+    "account_balance": 1806.42
+  },
+  {
+    "customer_id": "CUS-148493",
+    "name": "Kevin Castillo",
+    "date_of_birth": "1992-07-24",
+    "email": "kevincastillo98@tidalbox.net",
+    "phone": "(210) 958-1619",
+    "address": "3882 Live Oak Ct, Miami, FL 33169",
+    "account_balance": 4063.81
+  },
+  {
+    "customer_id": "CUS-430572",
+    "name": "Zoe Quintero",
+    "date_of_birth": "2003-08-23",
+    "email": "zoe.quintero@heronwire.net",
+    "phone": "(512) 958-2952",
+    "address": "333 Bluebonnet Way, Raleigh, NC 27600",
+    "account_balance": 1428.74
+  },
+  {
+    "customer_id": "CUS-176458",
+    "name": "Jasmine Young",
+    "date_of_birth": "1961-02-18",
+    "email": "jasmineyoung72@maplewire.net",
+    "phone": "(210) 959-1191",
+    "address": "3852 Briarwood Dr, Phoenix, AZ 85009",
+    "account_balance": 6105.88
+  },
+  {
+    "customer_id": "CUS-806024",
+    "name": "Mason Lopez",
+    "date_of_birth": "1957-03-07",
+    "email": "mlopez71@tidalletters.com",
+    "phone": "(737) 958-5430",
+    "address": "8786 Briarwood Trl, Nashville, TN 37282",
+    "account_balance": 16950.1
+  },
+  {
+    "customer_id": "CUS-561476",
+    "name": "Aisha Kowalski",
+    "date_of_birth": "1967-07-16",
+    "email": "aisha_kowalski4@birchletters.com",
+    "phone": "407-959-1282",
+    "address": "6691 Live Oak Ct, Round Rock, TX 78614",
+    "account_balance": 5238.99
+  },
+  {
+    "customer_id": "CUS-561618",
+    "name": "Sofia Castillo",
+    "date_of_birth": "1955-01-05",
+    "email": "castillo.sofia@cinderinbox.net",
+    "phone": "(919) 958-8438",
+    "address": "2674 Cedar Dr, Plano, TX 75057",
+    "account_balance": 14302.55
+  },
+  {
+    "customer_id": "CUS-319433",
+    "name": "Destiny Castillo",
+    "date_of_birth": "1988-05-19",
+    "email": "destinycastillo14@cinderdispatch.net",
+    "phone": "(303) 958-6642",
+    "address": "8229 Lakeview St, Nashville, TN 37247",
+    "account_balance": 14244.22
+  },
+  {
+    "customer_id": "CUS-115434",
+    "name": "Maya Simmons",
+    "date_of_birth": "1987-07-28",
+    "email": "mayasimmons47@cinderdispatch.net",
+    "phone": "737-958-7792",
+    "address": "9064 Juniper Ln, Raleigh, NC 27603",
+    "account_balance": 9721.12
+  },
+  {
+    "customer_id": "CUS-469516",
+    "name": "Ava Shah",
+    "date_of_birth": "2003-04-25",
+    "email": "ava_shah8@tidalbox.net",
+    "phone": "(214) 959-8896",
+    "address": "8487 Riverbend Dr, Austin, TX 78740",
+    "account_balance": 7215.27
+  },
+  {
+    "customer_id": "CUS-555531",
+    "name": "Mia Ibarra",
+    "date_of_birth": "1984-11-20",
+    "email": "miaibarra46@cinderinbox.net",
+    "phone": "(312) 958-0700",
+    "address": "5812 Canyon Creek Ave, Orlando, FL 32870",
+    "account_balance": 7952.19
+  },
+  {
+    "customer_id": "CUS-570429",
+    "name": "Ava Rivera",
+    "date_of_birth": "1965-04-11",
+    "email": "ava.rivera@birchletters.com",
+    "phone": "312-959-0207",
+    "address": "3386 Oak Dr, Austin, TX 78779",
+    "account_balance": 2881.18
+  },
+  {
+    "customer_id": "CUS-627593",
+    "name": "Sofia Reyes",
+    "date_of_birth": "1957-11-12",
+    "email": "reyes.sofia@birchinbox.net",
+    "phone": "972-958-2860",
+    "address": "9032 Riverbend Ln, San Antonio, TX 78205",
+    "account_balance": 14297.73
+  },
+  {
+    "customer_id": "CUS-613116",
+    "name": "Leilani Anderson",
+    "date_of_birth": "1966-02-20",
+    "email": "leilani.anderson@birchletters.com",
+    "phone": "(713) 959-5251",
+    "address": "1840 Oak Blvd, Atlanta, GA 30382",
+    "account_balance": 15614.0
+  },
+  {
+    "customer_id": "CUS-153209",
+    "name": "Mateo Bennett",
+    "date_of_birth": "1970-06-27",
+    "email": "mbennett89@tidalbox.net",
+    "phone": "(305) 958-8695",
+    "address": "8419 Pecan Ave, Plano, TX 75027",
+    "account_balance": 4259.73
+  },
+  {
+    "customer_id": "CUS-658668",
+    "name": "Mateo Hayes",
+    "date_of_birth": "1967-12-29",
+    "email": "mateo.hayes@birchdispatch.net",
+    "phone": "303-958-3750",
+    "address": "9206 Juniper Ln, Raleigh, NC 27645",
+    "account_balance": 16867.48
+  },
+  {
+    "customer_id": "CUS-994529",
+    "name": "Malik Jenkins",
+    "date_of_birth": "1972-10-15",
+    "email": "jenkins.malik@slatedispatch.net",
+    "phone": "615-959-6419",
+    "address": "3731 Live Oak Ln, Plano, TX 75082",
+    "account_balance": 9678.63
+  },
+  {
+    "customer_id": "CUS-252850",
+    "name": "Yara Tran",
+    "date_of_birth": "1950-12-25",
+    "email": "tran.yara@heronmail.net",
+    "phone": "713-958-9882",
+    "address": "5196 Magnolia Dr, Raleigh, NC 27633",
+    "account_balance": 7259.59
+  },
+  {
+    "customer_id": "CUS-190462",
+    "name": "Adrian Ortiz",
+    "date_of_birth": "1966-07-16",
+    "email": "adrian_ortiz9@maplewire.net",
+    "phone": "(214) 959-9172",
+    "address": "3431 Pecan St, Denver, CO 80219",
+    "account_balance": 4611.73
+  },
+  {
+    "customer_id": "CUS-301024",
+    "name": "Mateo Brooks",
+    "date_of_birth": "1985-10-05",
+    "email": "mateo_brooks8@tidalletters.com",
+    "phone": "(678) 958-0903",
+    "address": "6508 Riverbend Ave, Plano, TX 75013",
+    "account_balance": 16579.48
+  },
+  {
+    "customer_id": "CUS-299254",
+    "name": "Lucas Sanchez",
+    "date_of_birth": "1982-06-03",
+    "email": "sanchez.lucas@birchletters.com",
+    "phone": "972-958-0375",
+    "address": "4922 Briarwood Trl, Denver, CO 80295",
+    "account_balance": 2389.27
+  },
+  {
+    "customer_id": "CUS-379466",
+    "name": "Mason Wright",
+    "date_of_birth": "1981-10-11",
+    "email": "mwright97@cinderwire.net",
+    "phone": "(281) 959-9418",
+    "address": "6017 Lakeview Ln, Houston, TX 77015",
+    "account_balance": 4437.72
+  },
+  {
+    "customer_id": "CUS-647118",
+    "name": "Grace Patel",
+    "date_of_birth": "1970-10-09",
+    "email": "gpatel70@tidalbox.net",
+    "phone": "(720) 958-7591",
+    "address": "8799 Riverbend Blvd, Plano, TX 75027",
+    "account_balance": 9186.2
+  },
+  {
+    "customer_id": "CUS-635283",
+    "name": "Caleb Vasquez",
+    "date_of_birth": "1957-10-11",
+    "email": "vasquez.caleb@birchinbox.net",
+    "phone": "(469) 959-2935",
+    "address": "9216 Lakeview Blvd, Raleigh, NC 27664",
+    "account_balance": 363.33
+  },
+  {
+    "customer_id": "CUS-992983",
+    "name": "Noah Vasquez",
+    "date_of_birth": "1969-05-15",
+    "email": "noah.vasquez@quillnote.net",
+    "phone": "303-959-1857",
+    "address": "7988 Willow St, Denver, CO 80273",
+    "account_balance": 13038.11
+  },
+  {
+    "customer_id": "CUS-551877",
+    "name": "Madison Reyes",
+    "date_of_birth": "2000-09-16",
+    "email": "mreyes77@maplewire.net",
+    "phone": "786-958-3378",
+    "address": "645 Willow Trl, Phoenix, AZ 85003",
+    "account_balance": 1136.39
+  },
+  {
+    "customer_id": "CUS-355954",
+    "name": "Layla Hughes",
+    "date_of_birth": "1955-09-30",
+    "email": "lhughes75@cinderdispatch.net",
+    "phone": "(404) 958-7064",
+    "address": "5503 Magnolia Blvd, Houston, TX 77036",
+    "account_balance": 4591.04
+  },
+  {
+    "customer_id": "CUS-134318",
+    "name": "Owen Robinson",
+    "date_of_birth": "1989-02-22",
+    "email": "orobinson71@slatedispatch.net",
+    "phone": "512-958-4031",
+    "address": "9133 Hillcrest Way, Austin, TX 78781",
+    "account_balance": 14852.63
+  },
+  {
+    "customer_id": "CUS-419854",
+    "name": "Tariq Kaur",
+    "date_of_birth": "1973-05-24",
+    "email": "tkaur87@birchletters.com",
+    "phone": "(720) 959-4031",
+    "address": "2154 Mesquite Trl, Houston, TX 77043",
+    "account_balance": 12800.46
+  },
+  {
+    "customer_id": "CUS-843786",
+    "name": "Priya Nakamura",
+    "date_of_birth": "1983-02-12",
+    "email": "priya.nakamura@slatedispatch.net",
+    "phone": "(817) 959-4078",
+    "address": "4184 Riverbend Ave, Orlando, FL 32832",
+    "account_balance": 11053.51
+  },
+  {
+    "customer_id": "CUS-722404",
+    "name": "Aisha Foster",
+    "date_of_birth": "1977-05-31",
+    "email": "foster.aisha@tidalletters.com",
+    "phone": "305-959-1209",
+    "address": "3826 Briarwood Ave, Round Rock, TX 78690",
+    "account_balance": 5117.81
+  },
+  {
+    "customer_id": "CUS-654461",
+    "name": "Nora Kim",
+    "date_of_birth": "1994-12-28",
+    "email": "kim.nora@heronmail.net",
+    "phone": "(214) 959-4398",
+    "address": "920 Mesquite Ct, Raleigh, NC 27614",
+    "account_balance": 6940.77
+  },
+  {
+    "customer_id": "CUS-911101",
+    "name": "Noah Foster",
+    "date_of_birth": "1999-09-04",
+    "email": "noahfoster62@tidalletters.com",
+    "phone": "720-958-4806",
+    "address": "4446 Magnolia Ave, Plano, TX 75040",
+    "account_balance": 1532.63
+  },
+  {
+    "customer_id": "CUS-138298",
+    "name": "Yara Castillo",
+    "date_of_birth": "2004-09-08",
+    "email": "yara_castillo2@asterwire.net",
+    "phone": "(312) 959-2758",
+    "address": "5645 Cedar Trl, Raleigh, NC 27657",
+    "account_balance": 13150.0
+  },
+  {
+    "customer_id": "CUS-316370",
+    "name": "Kevin Boateng",
+    "date_of_birth": "1994-03-13",
+    "email": "kboateng92@cinderwire.net",
+    "phone": "512-959-6332",
+    "address": "7191 Live Oak Dr, Nashville, TN 37243",
+    "account_balance": 5543.27
+  },
+  {
+    "customer_id": "CUS-828472",
+    "name": "Priya Shah",
+    "date_of_birth": "1969-04-01",
+    "email": "shah.priya@maplewire.net",
+    "phone": "(704) 959-0930",
+    "address": "4981 Lakeview Ln, San Antonio, TX 78265",
+    "account_balance": 16130.48
+  }
+]
